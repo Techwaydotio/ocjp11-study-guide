@@ -1,4 +1,4 @@
-baseURL = "https://example.com"
+baseURL = "https://ocp11study.netlify.com"
 title = "Oracle Java 11 Certified Programmer Study Guide"
 copyright = "Copyright © 2020, Theo Despoudis"
 paginate = 6

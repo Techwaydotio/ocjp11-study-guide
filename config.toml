@@ -1,0 +1,72 @@
+baseURL = "https://example.com"
+title = "Oracle Java 11 Certified Programmer Study Guide"
+copyright = "Copyright © 2020, Theo Despoudis"
+paginate = 6
+languageCode = "en"
+DefaultContentLanguage = "en"
+enableInlineShortcodes = true
+footnoteReturnLinkContents = "^"
+googleAnalytics = "UA-XXXX"
+DisqusShortname = ""
+theme = "hugo-theme-chunky-poster"
+
+[menu]
+  [[menu.main]]
+    identifier = "home"
+    name = "Home"
+    url = "/"
+    weight = 10
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 0
+
+[taxonomies]
+category = "categories"
+tag = "tags"
+series = "series"
+author = "authors"
+
+[params]
+  author = "Site Authors"
+  description = "Quality Study Materials and Notes for the OCJP 11 Programmer Certification"
+  share = true
+  showLanguageSwitcher = false
+
+  [params.social]
+    rss = true
+    email = ""
+    facebook = ""
+    twitter = "http://twitter.com/nerdokto"
+    linkedin = "https://www.linkedin.com/in/theofanis-despoudis-7bb30913/"
+    stack-overflow = ""
+    instagram = ""
+    github = "http://github.com/theodesp"
+    weibo = ""
+    medium = ""
+    pinterest = ""
+    reddit = ""
+    gitlab = ""
+    mastodon = ""
+    keybase = ""
+
+  [params.prismJS]
+    enable = true
+    theme = ""
+
+  [params.commento]
+    enable = true
+    url = "https://commento.io"
+
+[markup]
+  [markup.highlight]
+    codeFences = false
+
+[services]
+  [services.instagram]
+    disableInlineCSS = true
+
+  [services.twitter]
+    disableInlineCSS = true
+

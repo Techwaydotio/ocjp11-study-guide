@@ -1,6 +1,8 @@
 # ocjp11-study-guide
 Oracle Certified Professional Java SE 11 Study Guide Website. Please visit the Website by clicking on the project link.
 
+![webpage](webpage.png)
+
 # Motivation
 I build this website since I want to help for the people studying the OCP SE 11 Certification 
 by providing something easy to read on mobile devices or on the go.

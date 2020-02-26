@@ -1,0 +1,14 @@
+---
+name: Theo Despoudis
+images: ["me.png"]
+twitter: 'nerdokto'
+---
+
+
+Hello there. My name is Theo and I’m the person behind this website. I’m a Senior Developer by trade and in love of Web Technologies. 
+Writing code and solving problems was always my passion. 
+I created this site, so I can share my experiences with the fellow readers and also to learn new things myself!
+
+In addition to my engineering work, I also maintain my own consultancy https://techway.io[Techway] and a Technical Blog at https://codethat.today.
+
+Feel free to get in touch via Twitter or Dev.to.

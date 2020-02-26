@@ -1,0 +1,10 @@
++++
+date = "2020-02-18 10:51:47"
+title = "Create and use subclasses and superclasses"
+author = "Theo Despoudis"
+tags = ["methods", "subclasses", "classes"]
+weight = 16
+categories = ['1z0-815']
++++
+
+

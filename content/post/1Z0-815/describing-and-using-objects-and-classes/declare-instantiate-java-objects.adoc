@@ -1,0 +1,9 @@
++++
+date = "2020-02-18 10:51:47"
+title = "Declare and instantiate Java objects, and explain objects' lifecycles (including creation, dereferencing by reassignment, and garbage collection)"
+author = "Theo Despoudis"
+tags = ["objects", "gc"]
+weight = 29
+categories = ['1z0-815']
++++
+

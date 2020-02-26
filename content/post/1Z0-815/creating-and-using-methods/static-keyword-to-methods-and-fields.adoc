@@ -1,0 +1,10 @@
++++
+date = "2020-02-18 10:51:47"
+title = "Apply the static keyword to methods and fields"
+author = "Theo Despoudis"
+tags = ["methods", "static", "classes"]
+weight = 16
+categories = ['1z0-815']
++++
+
+

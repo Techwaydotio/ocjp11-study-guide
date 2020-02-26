@@ -1,0 +1,10 @@
++++
+date = "2020-02-18 10:51:47"
+title = "Define the structure of a Java class"
+author = "Theo Despoudis"
+tags = ["objects", "class"]
+weight = 30
+categories = ['1z0-815']
++++
+
+

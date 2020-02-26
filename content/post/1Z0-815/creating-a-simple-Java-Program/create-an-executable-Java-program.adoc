@@ -1,0 +1,13 @@
++++
+date = "2020-02-18 10:51:47"
+title = "Create an executable Java program with a main class"
+author = "Theo Despoudis"
+tags = ["main", "program"]
+weight = 23
+categories = ['1z0-815']
++++
+
+
+
+
+

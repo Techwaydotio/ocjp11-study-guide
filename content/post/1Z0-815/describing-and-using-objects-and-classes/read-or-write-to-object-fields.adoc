@@ -1,0 +1,11 @@
++++
+date = "2020-02-18 10:51:47"
+title = "Read or write to object fields"
+author = "Theo Despoudis"
+tags = ["objects", "fields"]
+weight = 31
+categories = ['1z0-815']
++++
+
+
+

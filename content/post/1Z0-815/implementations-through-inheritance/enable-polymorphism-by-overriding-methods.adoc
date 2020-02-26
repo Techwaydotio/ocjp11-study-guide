@@ -1,0 +1,10 @@
++++
+date = "2020-02-18 10:51:47"
+title = "Enable polymorphism by overriding methods"
+author = "Theo Despoudis"
+tags = ["methods", "polymorphism"]
+weight = 17
+categories = ['1z0-815']
++++
+
+

@@ -1,0 +1,8 @@
++++
+date = "2020-02-18 10:51:47"
+title = "Declare and initialize variables (including casting and promoting primitive data types)"
+author = "Theo Despoudis"
+tags = ["variables", "casting"]
+weight = 6
+categories = ['1z0-815']
++++

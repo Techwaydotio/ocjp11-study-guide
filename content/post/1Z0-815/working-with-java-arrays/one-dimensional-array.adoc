@@ -1,0 +1,9 @@
++++
+date = "2020-02-18 10:51:47"
+title = "Declare, instantiate, initialize and use a one-dimensional array"
+author = "Theo Despoudis"
+tags = ["arrays"]
+weight = 12
+categories = ['1z0-815']
++++
+

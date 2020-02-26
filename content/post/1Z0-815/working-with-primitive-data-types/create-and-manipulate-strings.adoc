@@ -1,0 +1,8 @@
++++
+date = "2020-02-18 10:51:47"
+title = "Create and manipulate Strings"
+author = "Theo Despoudis"
+tags = ["strings"]
+weight = 9
+categories = ['1z0-815']
++++

@@ -1,0 +1,11 @@
++++
+date = "2020-02-18 10:51:47"
+title = "Create and use do/while, while, for and for each loops, including nested loops, use break and continue statements"
+author = "Theo Despoudis"
+tags = ["operators", "for", "while", "do", "break"]
+weight = 27
+categories = ['1z0-815']
++++
+
+
+

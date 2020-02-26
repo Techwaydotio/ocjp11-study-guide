@@ -1,0 +1,11 @@
++++
+date = "2020-02-18 10:51:47"
+title = "Describe the advantages of Exception handling and differentiate among checked, unchecked exceptions, and Errors"
+author = "Theo Despoudis"
+tags = ["errors", "exceptions"]
+weight = 20
+categories = ['1z0-815']
++++
+
+
+

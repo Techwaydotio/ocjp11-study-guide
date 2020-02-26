@@ -1,0 +1,14 @@
++++
+date = "2020-02-18 10:51:47"
+title = "Compile and run a Java program from the command line"
+author = "Theo Despoudis"
+tags = ["compile", "program", "cli"]
+weight = 24
+categories = ['1z0-815']
++++
+
+
+
+
+
+

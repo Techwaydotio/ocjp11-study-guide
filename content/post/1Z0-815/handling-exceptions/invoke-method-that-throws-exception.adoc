@@ -1,0 +1,12 @@
++++
+date = "2020-02-18 10:51:47"
+title = "Create and invoke a method that throws an exception"
+author = "Theo Despoudis"
+tags = ["errors", "exceptions", "methods"]
+weight = 22
+categories = ['1z0-815']
++++
+
+
+
+

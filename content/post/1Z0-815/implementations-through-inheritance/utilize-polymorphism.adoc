@@ -1,0 +1,11 @@
++++
+date = "2020-02-18 10:51:47"
+title = "Utilize polymorphism to cast and call methods, differentiating object type versus reference type"
+author = "Theo Despoudis"
+tags = ["methods", "polymorphism", "types"]
+weight = 18
+categories = ['1z0-815']
++++
+
+
+

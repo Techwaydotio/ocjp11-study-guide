@@ -1,0 +1,12 @@
++++
+date = "2020-02-18 10:51:47"
+title = "Use local variable type inference"
+author = "Theo Despoudis"
+tags = ["types", "variables"]
+weight = 8
+categories = ['1z0-815']
++++
+
+
+
+

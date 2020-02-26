@@ -16,10 +16,20 @@ theme = "hugo-theme-chunky-poster"
     name = "Home"
     url = "/"
     weight = 10
+   [[menu.main]]
+      identifier = "1Z0-815"
+      name = "1Z0-815"
+      url = "/post/1z0-815/"
+      weight = 11
   [[menu.main]]
     identifier = "about"
     name = "About"
     url = "/about/"
+    weight = 0
+  [[menu.main]]
+    identifier = "authors"
+    name = "Authors"
+    url = "/authors/theo-despoudis"
     weight = 0
 
 [taxonomies]

@@ -1,0 +1,8 @@
++++
+date = "2020-02-18 10:51:47"
+title = "Identify the scope of variables"
+author = "Theo Despoudis"
+tags = ["scope", "variables"]
+weight = 7
+categories = ['1z0-815']
++++
